@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Oi! Eu sou Francisco, acadêmico e apaixonado na área da Tecnologia da Informação, curso Ciências da Computação, nos horários onde não me encontro em foco no estudo acadêmico, estou sempre me atualizando das novidades da minha área no mundo, fazendo cursos para agregar sempre no meu conhecimento, buscando sempre ser o melhor no que faço. 
-  Estou focado na parte de Desenvolvimento Web, especialmente na parte de Desenvolvimento Front-End, Minha Stack atual é => Reactjs ,Nodejs, NextJs
+  Estou focado na parte de Desenvolvimento Web, especialmente na parte de Desenvolvimento Front-End, Minha Stack atual é => ueJs, NodeJs, Vuex, AdonisJs, Nux
 
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Reactjs, NodeJs, NextJs</strong>
+  💼 Ferramentas: <strong>VueJs, NodeJs, Vuex, AdonisJs, Nux</strong>
 </p>
 
 <p align="left">
