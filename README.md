@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VueJs, NodeJs, Vuex, AdonisJs, NuxtJs</strong>
+  💼 Ferramentas: <strong> VueJs, NodeJs, Vuex, AdonisJs, NuxtJs</strong>
 </p>
 
 <p align="left">
