@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui estão minhas Redes Sociais ⤵️
+  💌 Aqui estão minhas Redes Sociais  ⤵️
 </p>
 
 <p align="left">
