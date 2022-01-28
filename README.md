@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VueJs, NodeJs, ReactJs, NextJs(Estudando)
+  💼 Ferramentas: <strong> VueJs, NodeJs, ReactJs, NextJs (Estudando)
 </p>
 
 <p align="left">
