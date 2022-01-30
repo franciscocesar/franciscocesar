@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Oi! Eu sou Francisco, acadêmico e apaixonado na área da Tecnologia da Informação, curso Ciências da Computação, nos horários onde não me encontro em foco no estudo acadêmico, estou sempre me atualizando das novidades da minha área no mundo, fazendo cursos para agregar sempre no meu conhecimento, buscando sempre ser o melhor no que faço. 
-  Estou focado na parte de Desenvolvimento Web, especialmente na parte de Desenvolvimento Front-End, Minha Stack atual é => ReactJs, NodeJs, NextJs
+Desenvolvedor web e entusiasta em UX. Eu sou Francisco, tenho como foco desenvolvimento front-end com ReactJs / VueJs onde venho estudando a mais de 1 ano, tenho noções avançadas em POO e Lógica de Programação, experiência com desenvolvimento back-end com as tecnologias .Net e NodeJs. Atualmente estou estudando NextJs além de TDD, Design Patterns e Clean Code.
 
+Sempre fui apaixonado por tecnologia, a capacidade de resolver problemas é a parte que mais me encanta dentro da área, é um sentimento de poder e esse é um dos principais motivos de eu me manter motivado.
+Todos os dias estou aprendendo algo novo, sempre buscando me especializar cada vez mais, consumindo cursos, lendo documentações e praticando bastante.
 </p>
 
 <p align="left">
@@ -11,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VueJs, NodeJs, ReactJs, NextJs (Estudando)
+  💼 Ferramentas: <strong> NodeJs, ReactJs, NextJs (Estudando)
 </p>
 
 <p align="left">
