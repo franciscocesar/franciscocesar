@@ -8,7 +8,7 @@ Todos os dias estou aprendendo algo novo, sempre buscando me especializar cada v
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, TypeScript</strong>
+  🦄  Linguagens: <strong>JavaScript, TypeScript</strong>
 </p>
 
 <p align="left">
