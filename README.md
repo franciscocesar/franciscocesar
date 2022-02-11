@@ -4,8 +4,8 @@
 Desenvolvedor web e entusiasta em UX. Eu sou Francisco, tenho como foco desenvolvimento front-end com ReactJs / VueJs onde venho estudando a mais de 1 ano, tenho noções avançadas em POO e Lógica de Programação, experiência com desenvolvimento back-end com as tecnologias .Net e NodeJs. Atualmente estou estudando NextJs além de TDD, Design Patterns e Clean Code.
 
 Sempre fui apaixonado por tecnologia, a capacidade de resolver problemas é a parte que mais me encanta dentro da área, é um sentimento de poder e esse é um dos principais motivos de eu me manter motivado.
-Todos os dias estou aprendendo algo novo, sempre buscando me especializar cada vez mais, consumindo cursos, lendo documentações e praticando bastante.
-</p>
+Todos os dias estou aprendendo algo novo, sempre buscando me especializar cada vez mais, consumindo cursos, lendo documentações e praticando bastante. 
+ </p>
 
 <p align="left">
   🦄  Linguagens: <strong>JavaScript, TypeScript</strong>
