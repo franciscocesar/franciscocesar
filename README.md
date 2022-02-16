@@ -12,7 +12,7 @@ Todos os dias estou aprendendo algo novo, sempre buscando me especializar cada v
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> NodeJs, ReactJs, NextJs (Estudando)
+  💼 Ferramentas: <strong> NodeJs, ReactJs, NextJs ( Estudando)
 </p>
 
 <p align="left">
