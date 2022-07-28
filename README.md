@@ -10,7 +10,7 @@ Sempre fui apaixonado por tecnologia, a capacidade de resolver problemas é a pa
  </p>
 
 <p align="left">
-  🦄  Linguagens: <strong>JavaScript, TypeScript</strong>
+  🦄  Linguagens: <strong>JavaScript, TypeScript </strong>
 </p>
 
 <p align="left">
