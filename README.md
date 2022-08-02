@@ -6,7 +6,6 @@ versionamento com fluxo do Git Flow dentre outras. Trabalho em conjunto com o us
 de metodologias ágeis deixando a comunicação mais transparente, direta e eficaz
 em todas as partes do projeto.
 
-Sempre fui apaixonado por tecnologia, a capacidade de resolver problemas é a parte que mais me encanta dentro da área, é um sentimento de poder e esse é um dos principais motivos de eu me manter motivado.
  </p>
 
 <p align="left">
