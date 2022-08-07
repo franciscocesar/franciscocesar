@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Desenvolvedor de Software e entusiasta em UX. Sou Francisco, tenho aproximadamente um ano de experiência com desenvolvimento front-end utilizando ReactJs (Typescript), noções avançadas em POO e Lógica de Programação, experiência com desenvolvimento back-end utilizando as tecnologias NodeJS, MongoDB, Mongoose com GraphQL e criação de APIRest sempre aplicando as melhores práticas de desenvolvimento de software (SOLID, TDD, CLEAN ARCHITETURE), conhecimento de git para
+ Desenvolvedor de Software e entusiasta em UX. Sou Francisco, tenho aproximadamente um ano de experiência com desenvolvimento front-end utilizando ReactJs (Typescript), noções avançadas em POO e Lógica de Programação, experiência com desenvolvimento back-end utilizando as tecnologias NodeJS, MongoDB, Mongoose com GraphQL e criação de APIRest sempre aplicando as melhores práticas de desenvolvimento de software (SOLID, TDD, CLEAN ARCHITETURE), conhecimento de git para
 versionamento com fluxo do Git Flow dentre outras. Trabalho em conjunto com o uso
 de metodologias ágeis deixando a comunicação mais transparente, direta e eficaz
 em todas as partes do projeto.
