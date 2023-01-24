@@ -9,7 +9,7 @@ em todas as partes do projeto .
  </p>
 
 <p align="left">
-  🦄  Linguagens: <strong>JavaScript, TypeScript, C# </strong>
+  🦄   Linguagens: <strong>JavaScript, TypeScript, C# </strong>
 </p>
 
 <p align="left">
